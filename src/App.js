@@ -134,7 +134,7 @@ function App() {
           </section>
 
           <footer className="footer">
-            © 2025 Citrus Ink Studios. All rights reserved.
+            © 2025 brivinn.com All rights reserved.
           </footer>
         </div>
       )}
