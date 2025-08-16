@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Raj/static/css/main.4edd8aa1.css",
+    "main.js": "/Raj/static/js/main.c6155925.js",
+    "static/media/logo.mp4": "/Raj/static/media/logo.e0096aa9dd31b0dcdedb.mp4",
+    "static/media/logo.jpeg": "/Raj/static/media/logo.1afa8e0188c57ac4e32f.jpeg",
+    "index.html": "/Raj/index.html",
+    "main.4edd8aa1.css.map": "/Raj/static/css/main.4edd8aa1.css.map",
+    "main.c6155925.js.map": "/Raj/static/js/main.c6155925.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4edd8aa1.css",
+    "static/js/main.c6155925.js"
+  ]
+}
